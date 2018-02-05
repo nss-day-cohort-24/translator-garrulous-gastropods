@@ -3,7 +3,7 @@
 console.log("test");
 
 let germanModule = {
-    "Wishing": "Wünsche",
+    "wishing": "wünsche",
     "the": "das",
     "sweetest": "am süßesten",
     "happiest": "am glücklichsten",
