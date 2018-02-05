@@ -12,4 +12,4 @@ let germanModule = {
     "my": "meine",
     "forever": "für immer",
     "Valentine": "Valentinstag"
-}
+};

@@ -12,4 +12,4 @@ const frenchModule = {
     "my":"mon",
     "forever" : "pour toujours",
     "valentine": "valentin", 
-}
+};

@@ -1,5 +1,5 @@
 "use strict";
-console.log("welcome to our site")
+console.log("welcome to our site");
 const spanishModule={
     "wishing": "deseando",
     "the":"el",
@@ -10,5 +10,5 @@ const spanishModule={
     "my":"mi",
     "forever":"Siempre",
     "valentine":"Enamorado.",
-}
+};
 
