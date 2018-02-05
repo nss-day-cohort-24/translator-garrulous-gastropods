@@ -13,3 +13,4 @@ let Norwegian = {
     "forever": "for alltid",
     "Valentine": "valentine",
 };
+    
