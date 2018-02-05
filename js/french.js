@@ -10,5 +10,6 @@ const frenchModule = {
     "day": "jour",
     "to": "à",
     "my":"mon",
+    "forever" : "pour toujours",
     "valentine": "valentin", 
 }
