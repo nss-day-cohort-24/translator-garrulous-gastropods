@@ -3,23 +3,70 @@ $primary-color: rgb(52, 52, 52);
 $secondary-color: rgb(170, 255, 228);
 $tertiary-color: rgb(218, 86, 86);
 $radius: 8px;
+ 
 
-.translator {
 
+#translator {
+    font: 100% $font-stack;
+  color: $primary-color;
+  margin: 100px 150px ;
+  
+  //display: flex;
+  //flex-direction: column;
 };
+
+
 
 label {
+    $font-stack: Helvetica, sans-serif;
+    font-size: 1.15em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display:inline-block;
 
 };
+
+.language{
+    margin: 10px 5px;
+    display: block;
+  //flex-direction: column;
+  //float: left;
+}
 
 textarea {
-
+    $font-stack: Helvetica, sans-serif;
+    font-size: 1em;
+        width: 30%;
+        height: 150px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: $secondary-color;
+        resize: none;
 };
 
-select {
 
+select {
+    $font-stack: Helvetica, sans-serif;
+    font-size: 1.35em;
+    width: 10%;
+    padding: 16px 20px;
+    border-color: lightgrey;
+    border-radius: 1px;
 };
 
 button {
-
+    $font-stack: Helvetica, sans-serif;
+    width: 7%;
+    font-size: 1.35em;
+    margin: 10px ;
+    Background-color: $tertiary-color;
+    display: inline;
+    cursor: pointer;  
 };
+
+button:hover {
+    background-color: rgb(26, 8, 105);
+    color: white;
+}
