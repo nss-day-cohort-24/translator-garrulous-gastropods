@@ -13,3 +13,5 @@ let germanModule = {
     "forever": "für immer",
     "Valentine": "Valentinstag"
 };
+
+
