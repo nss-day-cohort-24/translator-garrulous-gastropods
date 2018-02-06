@@ -23,11 +23,6 @@ let translator = () => {
     console.log(englishArray); 
 
     //take array items and translate them
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> c91609d9dd29bf6950a036f8ca755da68b80db4e
 
     //concatenate the translatedGreeting array into a string
     let concatTranslate = englishArray.join(" ");
