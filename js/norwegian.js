@@ -12,5 +12,7 @@ let Norwegian = {
     "my": "min",
     "forever": "for alltid",
     "Valentine": "valentine",
+    "happy": "lykkelig",
+    "Valentine's Day": "Valentinsdag"
 };
     
