@@ -11,7 +11,14 @@ let germanModule = {
     "to": "zu",
     "my": "meine",
     "forever": "für immer",
-    "Valentine": "Valentinstag"
+    "Valentine": "Valentinstag",
+    "happy": "glücklich",
+    "Valentine's": "Valentinstag",
+    "Day": "Tag",
+    "write": "schreiben",
+    "your": "ihre",
+    "card": "karte",
+    "here": "hier"
 };
 
 
