@@ -13,3 +13,4 @@ const frenchModule = {
     "forever" : "pour toujours",
     "valentine": "valentin", 
 };
+
